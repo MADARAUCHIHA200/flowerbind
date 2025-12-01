@@ -8,11 +8,12 @@ Visit the site here: [https://flowerbind.netlify.app](https://flowerbind.netlify
 
 ## 🎮 About the Game
 
-**Flowerbind** is an upcoming indie game currently in development. This website serves as a landing page to showcase the game’s concept, visuals, and future updates.
+**Flowerbind** is an upcoming indie game inspired by **Undertale**, blending emotional storytelling, unique characters, and creative gameplay.  
+This website serves as a landing page to showcase the game’s concept, visuals, and future updates.
 
 ## 🌐 Website Status
 
-- ✅ Website: Completed
+- ✅ Website: Completed  
 - 🚧 Game: Under development
 
 ## 📣 Join the Community
