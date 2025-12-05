@@ -1,6 +1,6 @@
 # 🌸 Flowerbind Website
 
-Welcome to the **Flowerbind Website** — a simple introduction to an under-development indie game called **Flowerbind**, created by my friend **Amoxyr**.
+Welcome to the **Flowerbind Website**, a simple introduction website to an under-development indie game called **Flowerbind**, created by my friend **Amoxyr**.
 
 ## 🔗 Live Website
 
